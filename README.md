@@ -1,3 +1,4 @@
-!(https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/0-profile-details.svg)
-!(https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/1-repos-per-language.svg) !(https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/2-most-commit-language.svg)
-(https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/3-stats.svg)https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/4-productive-time.svg)
+
+[![](https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/acse-jy220/acse-jy220/edit/master/README.md)
+[![](https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/acse-jy220/acse-jy220/edit/master/README.md) [![](https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/acse-jy220/acse-jy220/edit/master/README.md)
+[![](https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/acse-jy220/acse-jy220/edit/master/README.md) [![](https://raw.githubusercontent.com/acse-jy220/acse-jy220/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/acse-jy220/acse-jy220/edit/master/README.md)
